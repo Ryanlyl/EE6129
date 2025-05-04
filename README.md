@@ -1,4 +1,4 @@
-Some of my past year paper solution is located under the file PYP_Solution. Notice that the solution is not error free, if you have any confusion or find any fault in it, don't hestiate to contact the Wechat: **LABCD2000**
+Some of my past year paper solution is located under the file PYP_Solution. Notice that the solution is not error free, if you have any confusion or find any fault in it, don't hesitate to contact the Wechat: **LABCD2000**
 
 **Quick Links:**
 - [2023-2024_3.pdf](./PYP_Solution/2023-2024_3.pdf)
